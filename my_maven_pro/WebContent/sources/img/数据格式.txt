@@ -1,0 +1,79 @@
+{
+    "success":true,
+    "result":{
+		timeList: [
+			{
+				"startTime":"2015-12-18 08:00:00",
+				"ruleId":1,
+				"TimeStatus":"活动已结束",
+				"endTime":"2015-12-18 10:00:00"
+			},
+			{
+				"startTime":"2015-12-18 11:00:00",
+				"ruleId":3,
+				"TimeStatus":"活动已结束",
+				"endTime":"2015-12-18 12:00:00"
+			},
+			{
+				"startTime":"2015-12-18 12:00:00",
+				"ruleId":6,
+				"TimeStatus":"活动已结束",
+				"endTime":"2015-12-18 14:00:00"
+			},
+		],
+		"goodList":[
+			{
+				"id":"cNaI--a4axWIldF-nhKbXjaK5fVILKWSS4STkT2FFuw",
+				"name":"手推车",
+				"goodsStatus":"10",
+				"goodsCategoryGrade1Id":"302_00000000010000004_gct",
+				"goodsCategoryGrade2Id":"302_00000000010000006_gct",
+				"goodsCategoryGrade3Id":"302_00000000010000008_gct",
+				"brandId":"",
+				"productId":null,
+				"calcStockType":"00",
+				"keyword":null,
+				"memo":null,
+				"adWord":"343",
+				"carriageTemplateId":"106_00000000000000202_sct",
+				"goodsWeight":1,
+				"goodsWeightUnit":null,
+				"storeId":"101_00000000000000201_str",
+				"storeName":"全球玩具馆",
+				"storeStatus":"01",
+				"invoiced":0,
+				"version":1,
+				"applierId":null,
+				"approverId":null,
+				"approveMemo":"4",
+				"cancelFlag":0,
+				"createUser":"merchants01",
+				"createDate":1450151489000,
+				"modifyUser":null,
+				"modifyDate":1450156712000,
+				"sgBrandName":null,
+				"goodsCategoryId":null,
+				"sgGoodsCG":null,
+				"marketMaxPrice":null,
+				"marketMinPrice":null,
+				"salesMinPrice":null,
+				"salesMaxPrice":null,
+				"localStock":null,
+				"statusValue":null,
+				"gdCatName":null,
+				"goodsItemVoList":null,
+				"claimStatus":null,
+				"treePathName":null,
+				"manufacturer":"卡通玩具城",
+				"priceRegion":null,
+				"brandName":null,
+				"picturePath":null
+			}
+		]
+    },
+    "resultStatusCode":null,
+    "resultStatusMessage":null,
+    "sumTotal":null
+}
+
+©2014 Json.cn All right reserved. 京ICP备15025187号-1
